@@ -135,7 +135,6 @@ bot.action('claim', (ctx) => {
     } else {
         ctx.reply("You need to be registered to claim points.");
     }
-    sendMainMenu(ctx);
 });
 
 // Handle callback data

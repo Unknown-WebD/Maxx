@@ -3,7 +3,7 @@ const { Telegraf } = require('telegraf');
 const fs = require('fs');
 
 // Initialize bot with your Telegram token
-const bot = new Telegraf('7311393331:AAFK6XrUQ_GIqtOSQyq2PiZnvHqtUly8seU');
+const bot = new Telegraf('73Qyq2PiZnvHqtUly8seU');
 
 // Load user data
 let usersData = {};
